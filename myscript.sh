@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "hello world" >output.txt
+echo "hello world" ${NAME} >output.txt
 
 
